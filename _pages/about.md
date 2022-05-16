@@ -21,7 +21,7 @@ My research interests include networking, optimization and machine learning.
 <br/>
 Email: <a href="mailto:yuanyuanli@ece.neu.edu">yuanyuanli@ece.neu.edu</a>
 <br/>
-Google Scholar: <a href="https://scholar.google.com/citations?user=dSHgvhoAAAAJ&hl=en">Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=dSHgvhoAAAAJ&hl=en">Google Scholar</a>
 </div>
 </div>
 <style>
