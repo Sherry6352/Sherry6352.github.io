@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: false
 ---
 
-**Yuanyuan Li**, Taraq Si Salem, Giovanni Neglia, and Stratis Ioannidis. [Online Caching Networks with Adversarial Guarantees](/files/Online_Caching_Networks_with_Adversarial_Guarantees.pdf). *ACM International Conference on Measurements and Modeling of Computer Systems (SIGMETRICS), 2022.*
+**Yuanyuan Li**, Tareq Si Salem, Giovanni Neglia, and Stratis Ioannidis. [Online Caching Networks with Adversarial Guarantees](/files/Online_Caching_Networks_with_Adversarial_Guarantees.pdf). *ACM International Conference on Measurements and Modeling of Computer Systems (SIGMETRICS), 2022.*
 
 Yuezhou Liu\*, **Yuanyuan Li**\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks.pdf). *IEEE International Conference on Computer Communications (INFOCOM), 2022.*
 
@@ -18,7 +18,7 @@ Yuezhou Liu, **Yuanyuan Li**, Qian Ma, Stratis Ioannidis and Edmund Yeh. [Fair C
 
 Kunpeng Li, Yulun Zhang, Kai Li, **Yuanyuan Li**, Yun Fu. [Attention Bridging Network for Knowledge Transfer](/files/Attention_Bridging_Network_for_Knowledge_Transfer.pdf). *International Conference on Computer Vision (ICCV), 2019.*
 
-Kunpeng Li, Yulun Zhang, Kai Li, **Yuanyuan Li**, Yun Fu. [Visual Semantic Reasoning for Image-Text Matching](/files/Visual_Semantic_Reasoning_for_Image-Text_Matching.pdf). *International Conference on Computer Vision (ICCV), 2019. (**Oroal**).*
+Kunpeng Li, Yulun Zhang, Kai Li, **Yuanyuan Li**, Yun Fu. [Visual Semantic Reasoning for Image-Text Matching](/files/Visual_Semantic_Reasoning_for_Image-Text_Matching.pdf). *International Conference on Computer Vision (ICCV), 2019. (**Oral**).*
 
 **Yuanyuan Li**, Linghe Kong, Fan Wu, Zhenzhe Zheng, Guihai Chen. [MAPM: Movement-based Adaptive Prediction Mechanism for Energy Conservation in Body Sensor Networks](/files/MAPM.pdf). *IEEE Global Communications Conference (GLOBECOM), 2016.*
 
