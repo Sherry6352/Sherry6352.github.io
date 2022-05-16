@@ -6,7 +6,7 @@ author_profile: false
 
 Debashri Roy, **Yuanyuan Li**, Tong Jian, Peng Tian, Kaushik Roy Chowdhury and Stratis Ioannidis. [Multi-modality Sensing and Data Fusion for Multi-vehicle Detection](/files/Multi-modality_Sensing_and_Data_Fusion_for_Multi-vehicle Detection.pdf). *IEEE Transactions on Multimedia (TOMM), 2022.*
 
-Yuezhou Liu*, **Yuanyuan Li***, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks.pdf). *IEEE International Conference on Computer Communications (INFOCOM), 2022.*
+Yuezhou Liu\*, **Yuanyuan Li**\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks.pdf). *IEEE International Conference on Computer Communications (INFOCOM), 2022.*
 
 **Yuanyuan Li**, Taraq Si Salem, Giovanni Neglia, and Stratis Ioannidis. [Online Caching Networks with Adversarial Guarantees](/files/Online_Caching_Networks_with_Adversarial_Guarantees.pdf). *ACM International Conference on Measurements and Modeling of Computer Systems (SIGMETRICS), 2022.*
 
