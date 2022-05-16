@@ -17,7 +17,7 @@ Cache networks
 - Fair cache networks
 
 Machine learning
-- Multimadal learning for vehicle detection
+- Multimodal learning for vehicle detection
 - Experimental design networks for serving heterogeneous learners
 
 ### Teaching Assistant for Operating System (Spring 2016 and 2017)
