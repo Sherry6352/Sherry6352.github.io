@@ -42,9 +42,9 @@ My research interests include networking, optimization and machine learning.
     align-items: center;
   }
 
-  @media (max-width: 600px){
+  @media (max-width: 800px){
     .flex {
-      flex-direction: row;
+      flex-direction: column;
     }
     .photo {
     max-width: 100%;
