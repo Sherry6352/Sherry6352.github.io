@@ -11,15 +11,15 @@ redirect_from:
 <div class="flex">
 <img class="photo" src="{{site.url}}/images/bio-photo.jpeg" /> 
 <div class="text">
-I am a PhD Candidate in Economics at the University of California, Berkeley. I am also a Graduate Student Researcher at the Energy Institute at Haas and a California Policy Lab Graduate Fellow. 
+I received the B.E. degree (2015) from School of Electronic and Information Engineering, South China University of Technology, China and M.S. degree (2018) from Department of Computer Science and Engineering, Shanghai Jiao Tong University. I am now a Ph.D. student in Computer Engineering, Northeastern University, Boston, USA., under the supervision of Prof. Stratis Ioannidis. 
 <br/>
 <br/>
-I do research on energy and climate policy, public goods, and inequality. My <a href="https://evalyubich.com/files/Lyubich_UCBerkeley_JMP.pdf">job market paper</a> examines the role of places in household carbon emissions.
+My research interests include networking, optimization and machine learning.
 <br/>
 <br/>
-<b>I am on the job market AY 2021-2022.</b>
+<b>I am on the job market 2022-2023.</b>
 <br/>
-Email: <a href="mailto:elyubich@berkeley.edu">elyubich@berkeley.edu</a>
+Email: <a href="mailto:yuanyuanli@ece.neu.edu">yuanyuanli@ece.neu.edu</a>
 </div>
 </div>
 <style>
