@@ -36,7 +36,7 @@ My research interests include networking, optimization and machine learning.
   }
 
   .flex {
-    display: flex;
+    display: inline-flex;
     max-width: 900px;
     margin: auto;
     align-items: center;
