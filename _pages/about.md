@@ -30,7 +30,7 @@ My research interests include networking, optimization and machine learning.
 </div>
 <style>
   .photo {
-    display: block;
+    display: flex;
     max-width: 40%;
     margin: 0 20px;
   }
@@ -42,7 +42,7 @@ My research interests include networking, optimization and machine learning.
     align-items: center;
   }
 
-  @media (max-width: 800px){
+  @media (max-width: 600px){
     .flex {
       flex-direction: column;
     }
