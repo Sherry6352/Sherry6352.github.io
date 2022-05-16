@@ -25,7 +25,6 @@ Email: <a href="mailto:yuanyuanli@ece.neu.edu">yuanyuanli@ece.neu.edu</a>
 </div>
 <style>
   .photo {
-    display: block;
     max-width: 40%;
     margin: 0 20px;
   }
