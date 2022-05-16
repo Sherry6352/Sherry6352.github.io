@@ -4,9 +4,12 @@ permalink: /teaching/
 author_profile: false
 ---
 
-## Teaching
+#### Machine Learning Intern at Apollo, Baidu USA (Sept. 2021 - Dec. 2021)
+Interaction in Autonomous Driving
+<ul>
+ <li> Propose and implement the rule-based control point decider and gap decider, when the autonomous vehicle is in the unprotected left turn scenario at the intersection. They increases the efficiency of unprotected left turn.
+ <li> Implement a prototype reinforcement learning model (DQN) by Libtorch to determine the control point and gap to pass. Prove the feasibility of RL in </ul>
+  
 
-I served as a Graduate Student Instructor (GSI) for **Undergraduate Public Economics (ECON131) with Emmanuel Saez** in Spring 2019. I was awarded the Outstanding GSI Award (given to the top 10% of GSis in the department).
-
-Current lecture notes for that course can be found [here](https://eml.berkeley.edu//~saez/course131/course131.html).
+#### Teaching Assistant for Operating System (Spring 2016 and 2017)
 
