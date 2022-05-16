@@ -18,11 +18,11 @@ My research interests include networking, optimization and machine learning.
 <br/>
 <b>I am on the job market 2022-2023.</b>
 <br/>
+</div>
 <br/>
 Email: <a href="mailto:yuanyuanli@ece.neu.edu">yuanyuanli@ece.neu.edu</a>
 <br/>
 <a href="https://scholar.google.com/citations?user=dSHgvhoAAAAJ&hl=en">Google Scholar</a>
-</div>
 </div>
 <style>
   .photo {
