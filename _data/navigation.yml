@@ -5,8 +5,5 @@ main:
     url: /files/Lyubich_CV.pdf
     
   - title: "Research"
-    url: /research/ 
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /research/  
 
