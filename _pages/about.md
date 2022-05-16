@@ -35,7 +35,7 @@ Email: <a href="mailto:yuanyuanli@ece.neu.edu">yuanyuanli@ece.neu.edu</a>
 
   .flex {
     display: flex;
-    max-width: 900px;
+    max-width: 1500px;
     margin: auto;
     align-items: center;
   }
