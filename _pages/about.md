@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="flex">
-<img class="photo" src="{{site.url}}/images/bio-photo.jpeg" /> 
+<img class="photo" src="{{site.url}}/images/Life.HEIC" /> 
 <div class="text">
 I am now a forth Ph.D. student in Computer Engineering, Northeastern University, Boston, USA., under the supervision of Prof. Stratis Ioannidis. I received the B.E. degree (2015) from School of Electronic and Information Engineering, South China University of Technology, China and M.S. degree (2018) from Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 <br/>
