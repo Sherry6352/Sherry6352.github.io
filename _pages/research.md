@@ -4,6 +4,8 @@ permalink: /research/
 author_profile: false
 ---
 
+**Yuanyuan Li**, Yuchao Zhang, Stratis Ioannidis, and Jon Crowcroft. [Extended Version of Jointly Optimal Routing and Caching](/files/Jointly_Optimal_Routing_and_Caching.pdf). 2022.
+
 **Yuanyuan Li**, Tareq Si Salem, Giovanni Neglia, and Stratis Ioannidis. [Online Caching Networks with Adversarial Guarantees](/files/Online_Caching_Networks_with_Adversarial_Guarantees.pdf). *ACM International Conference on Measurements and Modeling of Computer Systems (SIGMETRICS), 2022.*
 
 Yuezhou Liu\*, **Yuanyuan Li**\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks.pdf). *IEEE International Conference on Computer Communications (INFOCOM), 2022.*
