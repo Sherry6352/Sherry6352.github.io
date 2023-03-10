@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: false
 ---
 
-**Yuanyuan Li**, Lili Su, Carlee Joe-Wong, Edmund Yeh, Stratis Ioannidis. [Extended Version of Distributed Experimental Design networks](/files/Distributed_Experimental_Design_Networks.pdf). 2023.
+**Yuanyuan Li**, Lili Su, Carlee Joe-Wong, Edmund Yeh, Stratis Ioannidis. [Extended Version of Distributed Experimental Design Networks](/files/Distributed_Experimental_Design_Networks.pdf). 2023.
 
 Yuezhou Liu\*, **Yuanyuan Li**\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks_ToN.pdf). **IEEE/ACM Transactions on Networking (ToN), 2023.*
 
