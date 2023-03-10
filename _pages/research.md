@@ -4,15 +4,19 @@ permalink: /research/
 author_profile: false
 ---
 
+**Yuanyuan Li**, Lili Su, Carlee Joe-Wong, Edmund Yeh, Stratis Ioannidis. [Extended Version of Distributed Experimental Design networks](/files/Distributed_Experimental_Design_networks.pdf). 2023.
+
+Yuezhou Liu\*, **Yuanyuan Li**\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks_ToN.pdf). **IEEE/ACM Transactions on Networking (ToN), 2023.*
+
 **Yuanyuan Li**, Yuchao Zhang, Stratis Ioannidis, and Jon Crowcroft. [Extended Version of Jointly Optimal Routing and Caching](/files/Jointly_Optimal_Routing_and_Caching.pdf). 2022.
 
 **Yuanyuan Li**, Tareq Si Salem, Giovanni Neglia, and Stratis Ioannidis. [Online Caching Networks with Adversarial Guarantees](/files/Online_Caching_Networks_with_Adversarial_Guarantees.pdf). *ACM International Conference on Measurements and Modeling of Computer Systems (SIGMETRICS), 2022.*
 
 Yuezhou Liu\*, **Yuanyuan Li**\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks.pdf). *IEEE International Conference on Computer Communications (INFOCOM), 2022.*
 
-Debashri Roy, **Yuanyuan Li**, Tong Jian, Peng Tian, Kaushik Roy Chowdhury and Stratis Ioannidis. [Multi-modality Sensing and Data Fusion for Multi-vehicle Detection](/files/Multi-modality_Sensing_and_Data_Fusion_for_Multi-vehicle_Detection.pdf). *IEEE Transactions on Multimedia (TOMM), 2022.*
+Debashri Roy, **Yuanyuan Li**, Tong Jian, Peng Tian, Kaushik Roy Chowdhury and Stratis Ioannidis. [Multi-modality Sensing and Data Fusion for Multi-vehicle Detection](/files/Multi-modality_Sensing_and_Data_Fusion_for_Multi-vehicle_Detection.pdf). *IEEE Transactions on Multimedia, 2022.*
 
-**Yuanyuan Li**, Stratis Ioannidis. [Cache Networks of Counting Queues](/files/Cache_Networks_of_Counting_Queues.pdf). *IEEE/ACM Transactions on Networking (TON), 2021.*
+**Yuanyuan Li**, Stratis Ioannidis. [Cache Networks of Counting Queues](/files/Cache_Networks_of_Counting_Queues.pdf). *IEEE/ACM Transactions on Networking (ToN), 2021.*
 
 Yuezhou Liu, **Yuanyuan Li**, Qian Ma, Stratis Ioannidis and Edmund Yeh. [Fair Caching Networks](/files/Fair_caching_networks.pdf). *International Symposium on Computer Performance, Modeling, Measurements and Evaluation (PERFORMANCE), 2020.*
 
