@@ -14,7 +14,7 @@ Resource Allocation
 - Experimental design networks for serving heterogeneous learners
 - Distributed, adaptive, algorithms optimizing cache decisions
 - Joint optimization of caching and routing
-- Cache networks incoprating queuing models
+- Cache networks incorporating queuing models
 - Fair cache networks
 
 Machine Learning
