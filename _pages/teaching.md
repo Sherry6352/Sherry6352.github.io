@@ -10,15 +10,16 @@ Interaction in Autonomous Driving
 - Implement a prototype reinforcement learning model (DQN) by Libtorch to determine the control point and gap to pass. Prove the feasibility of RL in unprotected left turn.
 
 ### Research Assistant at Northeastern University (Sept. 2018 - Now)
-Cache networks
+Resource Allocation
+- Experimental design networks for serving heterogeneous learners
 - Distributed, adaptive, algorithms optimizing cache decisions
 - Joint optimization of caching and routing
 - Cache networks incoprating queuing models
 - Fair cache networks
 
-Machine learning
-- Multimodal learning for vehicle detection
+Machine Learning
 - Experimental design networks for serving heterogeneous learners
+- Multimodal learning for vehicle detection
 
 ### Teaching Assistant for Operating System (Spring 2016 and 2017)
 
