@@ -6,7 +6,7 @@ author_profile: false
 
 <!-- **Yuanyuan Li**, Lili Su, Carlee Joe-Wong, Edmund Yeh, Stratis Ioannidis. [Extended Version of Distributed Experimental Design Networks](/files/Distributed_Experimental_Design_Networks.pdf). 2023. -->
 
-Yuezhou Liu\*, **Yuanyuan Li**\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks_ToN.pdf). **IEEE/ACM Transactions on Networking (ToN), 2023.*
+**Yuanyuan Li**\*, Yuezhou Liu\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks_ToN.pdf). **IEEE/ACM Transactions on Networking (ToN), 2023.*
 
 <!-- **Yuanyuan Li**, Yuchao Zhang, Stratis Ioannidis, and Jon Crowcroft. [Extended Version of Jointly Optimal Routing and Caching](/files/Jointly_Optimal_Routing_and_Caching.pdf). 2022. -->
 
