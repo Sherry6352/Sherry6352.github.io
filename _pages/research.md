@@ -4,11 +4,13 @@ permalink: /research/
 author_profile: false
 ---
 
+Derya Malak, **Yuanyuan Li**, Stratis Ioannidis, Edmund M. Yeh, and Muriel Medard. [Joint Optimization of Storage and Transmission via Coding Traffic Flows for Content Distribution](Coded_Caching_for_Information_Centric_Networks.pdf). *International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), 2023.* (**Best Paper Award**)
+
 <!-- **Yuanyuan Li**, Lili Su, Carlee Joe-Wong, Edmund Yeh, Stratis Ioannidis. [Extended Version of Distributed Experimental Design Networks](/files/Distributed_Experimental_Design_Networks.pdf). 2023. -->
 
-**Yuanyuan Li**\*, Yuezhou Liu\*, Lili Su, Edmund Yeh, Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks_ToN.pdf). **IEEE/ACM Transactions on Networking (ToN), 2023.*
+**Yuanyuan Li**\*, Yuezhou Liu\*, Lili Su, Edmund Yeh, and Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks_ToN.pdf). *IEEE/ACM Transactions on Networking (ToN), 2023.*
 
-<!-- **Yuanyuan Li**, Yuchao Zhang, Stratis Ioannidis, and Jon Crowcroft. [Extended Version of Jointly Optimal Routing and Caching](/files/Jointly_Optimal_Routing_and_Caching.pdf). 2022. -->
+**Yuanyuan Li**, Yuchao Zhang, Stratis Ioannidis, and Jon Crowcroft. [Extended Version of Jointly Optimal Routing and Caching](/files/Jointly_Optimal_Routing_and_Caching.pdf). IEEE International Conference on Communications (ICC), 2023.
 
 **Yuanyuan Li**, Tareq Si Salem, Giovanni Neglia, and Stratis Ioannidis. [Online Caching Networks with Adversarial Guarantees](/files/Online_Caching_Networks_with_Adversarial_Guarantees.pdf). *ACM International Conference on Measurements and Modeling of Computer Systems (SIGMETRICS), 2022.*
 
@@ -24,7 +26,7 @@ Yuezhou Liu, **Yuanyuan Li**, Qian Ma, Stratis Ioannidis and Edmund Yeh. [Fair C
 
 Kunpeng Li, Yulun Zhang, Kai Li, **Yuanyuan Li**, Yun Fu. [Attention Bridging Network for Knowledge Transfer](/files/Attention_Bridging_Network_for_Knowledge_Transfer.pdf). *International Conference on Computer Vision (ICCV), 2019.*
 
-Kunpeng Li, Yulun Zhang, Kai Li, **Yuanyuan Li**, Yun Fu. [Visual Semantic Reasoning for Image-Text Matching](/files/Visual_Semantic_Reasoning_for_Image-Text_Matching.pdf). *International Conference on Computer Vision (ICCV), 2019. (**Oral**).*
+Kunpeng Li, Yulun Zhang, Kai Li, **Yuanyuan Li**, Yun Fu. [Visual Semantic Reasoning for Image-Text Matching](/files/Visual_Semantic_Reasoning_for_Image-Text_Matching.pdf). *International Conference on Computer Vision (ICCV), 2019.* (**Oral**).
 
 **Yuanyuan Li**, Linghe Kong, Fan Wu, Zhenzhe Zheng, Guihai Chen. [MAPM: Movement-based Adaptive Prediction Mechanism for Energy Conservation in Body Sensor Networks](/files/MAPM.pdf). *IEEE Global Communications Conference (GLOBECOM), 2016.*
 
