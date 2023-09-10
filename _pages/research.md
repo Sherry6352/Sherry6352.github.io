@@ -10,7 +10,8 @@ Derya Malak, **Yuanyuan Li**, Stratis Ioannidis, Edmund M. Yeh, and Muriel Medar
 
 **Yuanyuan Li**\*, Yuezhou Liu\*, Lili Su, Edmund Yeh, and Stratis Ioannidis. [Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints](/files/Experimental_Design_Networks_ToN.pdf). *IEEE/ACM Transactions on Networking (ToN), 2023.*
 
-**Yuanyuan Li**, Yuchao Zhang, Stratis Ioannidis, and Jon Crowcroft. [Extended Version of Jointly Optimal Routing and Caching](/files/Jointly_Optimal_Routing_and_Caching.pdf). IEEE International Conference on Communications (ICC), 2023.
+**Yuanyuan Li**, Yuchao Zhang, Stratis Ioannidis, and Jon Crowcroft. [Jointly Optimal Routing and Caching with Bounded
+Link Capacities](/files/Jointly_Optimal_Routing_and_Caching.pdf). IEEE International Conference on Communications (ICC), 2023.
 
 **Yuanyuan Li**, Tareq Si Salem, Giovanni Neglia, and Stratis Ioannidis. [Online Caching Networks with Adversarial Guarantees](/files/Online_Caching_Networks_with_Adversarial_Guarantees.pdf). *ACM International Conference on Measurements and Modeling of Computer Systems (SIGMETRICS), 2022.*
 
