@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: false
 ---
 
-Derya Malak, **Yuanyuan Li**, Stratis Ioannidis, Edmund M. Yeh, and Muriel Medard. [Joint Optimization of Storage and Transmission via Coding Traffic Flows for Content Distribution](Coded_Caching_for_Information_Centric_Networks.pdf). *International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), 2023.* (**Best Paper Award**)
+Derya Malak, **Yuanyuan Li**, Stratis Ioannidis, Edmund M. Yeh, and Muriel Medard. [Joint Optimization of Storage and Transmission via Coding Traffic Flows for Content Distribution](/files/Coded_Caching_for_Information_Centric_Networks.pdf). *International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), 2023.* (**Best Paper Award**)
 
 <!-- **Yuanyuan Li**, Lili Su, Carlee Joe-Wong, Edmund Yeh, Stratis Ioannidis. [Extended Version of Distributed Experimental Design Networks](/files/Distributed_Experimental_Design_Networks.pdf). 2023. -->
 
